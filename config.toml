@@ -10,10 +10,16 @@ title = "InfoSec"
 languageName = "gb"
 weight = 1
 [languages.fr]
-languageName = "fr"
-weight = 2
+languageName = ""
+weight = ""
 [languages.fr.params]
 description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
+[[menu.main]]
+external = ""
+identifier = "Notes"
+name = "NOTES"
+url = ""
+weight = "5"
 [[menu.main]]
 external = true
 identifier = "jobs"
