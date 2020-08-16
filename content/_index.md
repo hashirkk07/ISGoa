@@ -1,5 +1,5 @@
 ---
-title: InfoSec IIT
+title: InfoSec IIT Goa
 date: 2020-08-12T22:57:52.000+05:30
 
 ---
