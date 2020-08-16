@@ -17,7 +17,7 @@ description = "Le DevFest, ou 'Developers Festival', est une conférence techniq
 [[menu.main]]
 external = true
 identifier = "notes"
-name = "Jobs"
+name = "notes"
 url = "https://jobs.devfesttoulouse.fr/"
 weight = "100"
 [params]
