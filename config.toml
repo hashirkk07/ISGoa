@@ -38,8 +38,8 @@ subscriptionUrl = "http://eepurl.com/dps1j5"
 themeColor = "#673ab7"
 title = "InfoSec IIT Goa"
 [params.logos]
-footer = "/images/logos/devfest_gray_text.png"
-header = "/uploads/bridge.png"
-jumbo = "/uploads/bridge.png"
+footer = "/uploads/infosec-trans.png"
+header = "/uploads/infosec-trans.png"
+jumbo = "/uploads/infosec-trans.png"
 [taxonomies]
 tag = "tags"
