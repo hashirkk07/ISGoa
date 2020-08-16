@@ -25,7 +25,7 @@ external = true
 identifier = "jobs"
 name = "Jobs"
 url = "https://jobs.devfesttoulouse.fr/"
-weight = 200
+weight = "100"
 [params]
 appleTouchIcon = "/apple-touch-icon.png"
 cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
