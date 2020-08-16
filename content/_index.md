@@ -1,7 +1,6 @@
 ---
 title: ''
 date: 2020-08-12T22:57:52.000+05:30
-draft: true
 
 ---
 {{% jumbo img="/uploads/bridge.png" imgLabel="DevFest Toulouse 2019" %}}
