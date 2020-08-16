@@ -19,7 +19,7 @@ external = true
 identifier = "note"
 name = "NOTES"
 url = "https://jobs.devfesttoulouse.fr/"
-weight = "200"
+weight = "100"
 [[menu.main]]
 external = true
 identifier = "jobs"
