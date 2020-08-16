@@ -5,11 +5,9 @@ date: 2020-08-12T22:57:52.000+05:30
 ---
 {{% jumbo img="/uploads/bridge.png" imgLabel="DevFest Toulouse 2019" %}}
 
-/uploads/bridge.png
+### Welcome
 
-## October 2nd, 2019
-
-### Pierre Baudis congress center
+# InfoSec IIT Goa
 
 {{% /jumbo %}}
 
