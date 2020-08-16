@@ -6,6 +6,7 @@ date: 2020-08-12T22:57:52.000+05:30
 {{% jumbo img="/uploads/bridge.png" imgLabel="DevFest Toulouse 2019" %}}
 
 ### Welcome
+
 # InfoSec IIT Goa
 
 {{% /jumbo %}}
@@ -18,7 +19,7 @@ The DevFest, or 'Developers Festival', is a technical conference for developers.
 It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
-{{% youtube-section %}}
+{{% youtube-section 3JF1D_Qo6cI %}}
 
 {{% icon %}}
 
