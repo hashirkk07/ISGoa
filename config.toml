@@ -16,10 +16,10 @@ weight = ""
 description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
 [[menu.main]]
 external = ""
-identifier = "Notes"
+identifier = "notes"
 name = "NOTES"
-url = ""
-weight = "5"
+url = "/"
+weight = ""
 [[menu.main]]
 external = true
 identifier = "jobs"
