@@ -11,9 +11,10 @@ date: 2020-08-12T22:57:52.000+05:30
 
 {{% /jumbo %}}
 
+## What is our Motto?
 {{% home-info what="Members:31,Core Members:6,Sessions:3" class="primary" %}}
 
-## What is our Motto?
+
 
 The DevFest, or 'Developers Festival', is a technical conference for developers.
 It is aimed at students, professionals or simply curious technophiles.
