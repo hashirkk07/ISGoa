@@ -8,7 +8,7 @@ draft: true
 
 /uploads/bridge.png
 
-## October 3rd, 2019
+## October 2nd, 2019
 
 ### Pierre Baudis congress center
 
